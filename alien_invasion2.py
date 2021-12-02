@@ -16,12 +16,12 @@ from pygame import mixer
 # Initiate Sound Effects
 mixer.init()
  
-laser_blast = pygame.mixer.Sound('sounds/laserblast.wav')
-alien_death = pygame.mixer.Sound('sounds/alien_death.wav')
-score_points = pygame.mixer.Sound('sounds/points.wav')
+laser_blast = pygame.mixer.Sound('sounds/laserblast.ogg')
+alien_death = pygame.mixer.Sound('sounds/alien_death.ogg')
+score_points = pygame.mixer.Sound('sounds/points.ogg')
 
 # M u s i c
-alien_music = mixer.music.load('sounds/alienmusic.wav')
+alien_music = mixer.music.load('sounds/87stateofmind.ogg')
 
 class AlienInvasion: 
 	"""Overall class to manage game assets and behavior."""
