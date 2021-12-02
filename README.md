@@ -17,5 +17,12 @@ tutorial cred. to 2nd Edition Python Crash Course by Eric Matthes.
  - The text from the book had a couple of typos which caused me to quit, but i couldn't go out like that, so.. 
  - Import pygame along with the assets and this code will run.  
  - May have to change interpreter path from current Python 3.8.2 64-bit to Python 3.7.4 64-bit!  
- - If [zsh: no matches found] when attempting to run, wrap file path in single quotes ''  
+ - If [zsh: no matches found] when attempting to run, wrap file path in single quotes ''   
+ 
+ ### Controls
+ - Use mouse pointer to click 'play' icon. 
+ - Arrow Keys move Ship left and right. 
+ - Space bar to fire. 
+ - 'Q' key to quit!  
+ ### Press 'Q' key to quit!
 
