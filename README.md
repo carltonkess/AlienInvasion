@@ -1,7 +1,6 @@
 # Alien Invasion made in Python
 ## First game -- Second attempt
-### practicing Python and implementing original SFX and Music.
-(music and sfx were made in a couple of minutes just to test).  
+### practicing Python and implementing original SFX and Music.  
 
 tutorial cred. to 2nd Edition Python Crash Course by Eric Matthes.
 
@@ -15,6 +14,8 @@ tutorial cred. to 2nd Edition Python Crash Course by Eric Matthes.
   - Rapid Fire from ship
 
 #### Building
- - The text from the book had a couple of typos which caused me to quit, but i couldn't go out like that. 
- - Import pygame along with the assets and this code should run.
- - Made in Sublime, haven't tried in Visual Studio Code.
+ - The text from the book had a couple of typos which caused me to quit, but i couldn't go out like that, so.. 
+ - Import pygame along with the assets and this code will run.  
+ - May have to change interpreter path from current Python 3.8.2 64-bit to Python 3.7.4 64-bit!  
+ - If [zsh: no matches found] when attempting to run, wrap file path in single quotes ''  
+
