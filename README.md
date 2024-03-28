@@ -1,5 +1,4 @@
 # Alien Invasion made in Python
-## First game -- Second attempt
 ### practicing Python and implementing original SFX and Music.  
 
 tutorial cred. to 2nd Edition Python Crash Course by Eric Matthes.
